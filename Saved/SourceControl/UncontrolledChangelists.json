@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/Flashlight/FlashLight_Texture_M.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/Blur_VHS.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/Images/Flashlight/FlashLight_Texture_M.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/Images/Flashlight/flashlight.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/Sharpen_M.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/W0/LVISYT8QBBEIX2SGK8DSHK.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/BodyCam/BodyCamEffect_M_PP_Inst.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/Images/DirtLens/medium_Lens_Dirt_Collection.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/Sharpen_M_Inst.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/BodyCam/BodyCamEffect_M_PP.uasset",
+				"C:/Users/Max/Documents/Unreal Projects/Final_Game/Content/FirstPerson/Input/Actions/IA_Sprint.uasset"
+			]
+		}
+	]
+}
